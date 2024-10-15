@@ -21,7 +21,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 ### Cloner le projet depuis GitHub :
 
 ```bash
-git clone https://github.com/votre-utilisateur/test-technique-tictactrip.git
+git clone https://github.com/Asto-42/TechnicalTestTicTacTrip
 ```
 
 ### Accédez au répertoire du projet :
